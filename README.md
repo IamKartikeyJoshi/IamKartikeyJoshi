@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kartikey Joshi</h1>
 <h3 align="center">A Keen Learner & Wannabe Programmer</h3>
 
-- 🔭 I’m currently working on **My photo blogging website**
+- 🔭 I’m currently working on **Website Development (Student)**
 
-- 🌱 I’m currently learning **Java , DBMS**
+- 👨🏻‍💻 I’m currently Edificating **Java , DBMS**
 
-- 👯 I’m looking to collaborate on **Web Development programs**
+- 🙋🏻‍♂️ I’m looking to coalescing on **Web Development programs**
 
-- 🤝 I’m Seeking Guidance with **My photo blogging website**
-
-- 💬 Ask me about **Web Development**
+- 🤝 I’m Seeking Admonishment with **My photo blogging website**
 
 - 📫 How to reach me **kartikeyvjoshi@gmail.com**
+
+- 💬 Ready For Symposium **Wannabe Virtuoso**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
