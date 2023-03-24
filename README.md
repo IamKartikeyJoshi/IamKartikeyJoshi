@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Kartikey Joshi</h1>
 <h3 align="center">A Keen Learner & Programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamkartikeyjoshi" alt="iamkartikeyjoshi" /></a> </p>
+
 
 - 🔭 I’m currently working on **My photo blogging website**
 
